@@ -107,6 +107,3 @@ WHERE id;
 
 SELECT DAYNAME(birthday_at) birthday
 FROM users;
-
-SELECT WEEKDAY(birthday_at) birthday
-FROM users;
